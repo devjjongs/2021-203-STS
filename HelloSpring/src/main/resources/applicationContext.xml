@@ -35,7 +35,7 @@
 
 	<!-- p40 -->
 	<beans:bean id="fooP40" class="x.y.p40.Foo">
-		<beans:property name="bar40">
+		<beans:property name="bar40">	<!-- set 적인 -->
 			<beans:ref bean="barP40" />
 		</beans:property>
 	</beans:bean>
