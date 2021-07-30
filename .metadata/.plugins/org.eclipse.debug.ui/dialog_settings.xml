@@ -2,15 +2,15 @@
 <section name="Workbench">
 	<section name="org.eclipse.debug.ui.LAUNCH_CONFIGURATIONS_DIALOG_SECTION">
 		<item key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_1" value="275"/>
-		<item key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_2" value="722"/>
-		<item key="org.eclipse.debug.ui.EXPANDED_NODES" value=", com.pivotal.server.tc.launchConfiguration, "/>
-		<item key="DIALOG_WIDTH" value="1665"/>
-		<item key="DIALOG_HEIGHT" value="845"/>
-		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|5|0|맑은 고딕"/>
+		<item key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_2" value="724"/>
+		<item key="org.eclipse.debug.ui.EXPANDED_NODES" value=", com.pivotal.server.tc.launchConfiguration, org.eclipse.jdt.launching.localJavaApplication, "/>
+		<item key="DIALOG_WIDTH" value="1294"/>
+		<item key="DIALOG_HEIGHT" value="1317"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 	<section name="org.eclipse.debug.ui.SELECT_LAUNCH_SHORTCUT_DIALOG">
-		<item key="DIALOG_WIDTH" value="347"/>
+		<item key="DIALOG_WIDTH" value="353"/>
 		<item key="DIALOG_HEIGHT" value="538"/>
-		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|5|0|맑은 고딕"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>

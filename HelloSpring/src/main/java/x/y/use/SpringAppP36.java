@@ -16,7 +16,7 @@ public class SpringAppP36 {
 		BeanFactory factory = new XmlBeanFactory(resource);
 		Foo bean =  (Foo)factory.getBean("foo");
 //		
-//		Foo bean2 =  (Foo)factory.getBean("foo");
+		Foo bean2 =  (Foo)factory.getBean("foo");
 	}
 
 }

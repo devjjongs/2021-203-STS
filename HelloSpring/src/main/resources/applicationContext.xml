@@ -4,23 +4,97 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xmlns:beans="http://www.springframework.org/schema/beans"
 	xmlns:context="http://www.springframework.org/schema/context"
+	xmlns:p="http://www.springframework.org/schema/p"
 	xsi:schemaLocation="http://www.springframework.org/schema/mvc https://www.springframework.org/schema/mvc/spring-mvc.xsd
 		http://www.springframework.org/schema/beans https://www.springframework.org/schema/beans/spring-beans.xsd
 		http://www.springframework.org/schema/context https://www.springframework.org/schema/context/spring-context.xsd">
 
- 	<beans:bean id="hi" class="x.y.impl.HelloBeanImpl" ></beans:bean>
-	<beans:bean  class="x.y.p36.Bar"   id="bar" />
-	<beans:bean class="x.y.p36.Baz"  id="baz"/>
+	<beans:bean id="hi" class="x.y.impl.HelloBeanImpl"></beans:bean>
+	<beans:bean class="x.y.p36.Bar" id="bar" />
+	<beans:bean class="x.y.p36.Baz" id="baz" />
 	<beans:bean class="x.y.p36.Foo" id="foo">
-		<beans:constructor-arg>
-			<beans:ref bean="bar"/>
+		<beans:constructor-arg index="1" ref="baz" />
+		<beans:constructor-arg index="0">
+			<beans:ref bean="bar" />
 		</beans:constructor-arg>
-		<beans:constructor-arg ref="baz"/>
+
 	</beans:bean>
+	<beans:bean class="x.y.impl.GreetingServiceImpl"
+		id="greeting" />
+
+	<beans:bean class="x.y.impl.GreetingServiceImpl"
+		id="greeting1">
+		<beans:constructor-arg value="안녕" />
+		<beans:constructor-arg>
+			<beans:value>3</beans:value>
+		</beans:constructor-arg>
+
+	</beans:bean>
+
+
+
+	<!-- p40 -->
+	<beans:bean id="fooP40" class="x.y.p40.Foo">
+		<beans:property name="bar40">
+			<beans:ref bean="barP40" />
+		</beans:property>
+	</beans:bean>
+
+	<beans:bean id="barP40" class="x.y.p40.Bar" />
+
+	<beans:bean id="fooP41" class="x.y.p40.Foo"
+		p:bar40-ref="bar40" />
+	<!-- <beans:property name="bar40"> <beans:ref bean="barP40" /> </beans:property> 
+		</beans:bean> -->
+
+
+	<!-- page42 -->
+	<beans:bean id="bar42" class="x.y.p42.Bar42" />
+	<beans:bean id="foo42" class="x.y.p42.Foo42">
+		<beans:lookup-method bean="bar42" name="getBar42" />
+	</beans:bean>
+
+
+	<!-- p46 -->
+	<beans:bean class="x.y.p46.CalculatorServiceImpl"
+		id="calculator">
+		<beans:property name="valueList">
+			<beans:list>
+				<beans:value type="java.lang.Integer">10</beans:value>
+				<beans:value>Kim Mal Ja</beans:value>
+			</beans:list>
+		</beans:property>
+	</beans:bean>
+
+
+	<!-- p48 -->
+	<beans:bean class="x.y.p46.CalculatorServiceImpl"
+		id="calculator48">
+		<beans:property name="properties">
+			<beans:props>
+				<beans:prop key="server">192.168.1.10</beans:prop>	<!-- setProperties -->
+				<beans:prop key="timeout">5000</beans:prop>	<!-- 5000 = 5s -->
+			</beans:props>
+		</beans:property>
+	</beans:bean>
+
+
+	<!-- p46 48 -->
+	<beans:bean class="x.y.p46.CalculatorServiceImpl"
+		id="calculator46_48">
+		<beans:property name="properties">
+			<beans:props>
+				<beans:prop key="server">192.168.1.10</beans:prop>	<!-- setProperties -->
+				<beans:prop key="timeout">5000</beans:prop>	<!-- 5000 = 5s -->
+			</beans:props>
+		</beans:property>
+		
+		<beans:property name="valueList">
+			<beans:list>
+				<beans:value type="java.lang.Integer">10</beans:value>
+				<beans:value>Kim Mal Ja</beans:value>
+			</beans:list>
+		</beans:property>
+	</beans:bean>
+
 </beans:beans>
-
-
-
-
-
-
