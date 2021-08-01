@@ -40,7 +40,6 @@ public class SpringAppScopeTest {
 
 
 
-이거 잘 
 
 
 
