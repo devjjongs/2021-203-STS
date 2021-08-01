@@ -10,6 +10,7 @@ public class P40Use {
 		Bar barP40 = new Bar();
 		Foo fooP40 = new Foo();
 		fooP40.setBar40(barP40);
+		
 	}
 
 }

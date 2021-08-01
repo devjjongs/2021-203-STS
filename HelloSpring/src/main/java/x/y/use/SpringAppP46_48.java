@@ -20,30 +20,58 @@ public class SpringAppP46_48 {
 		Resource resource = new ClassPathResource("applicationContext.xml");
 		BeanFactory factory = new XmlBeanFactory(resource);
 
-//	      CalculatorService ref1 =  (CalculatorServiceImpl) factory.getBean("calculator");
-//	      ref1.listOutput();
+//		CalculatorService ref1 =  (CalculatorServiceImpl)factory.getBean("calculator");
+//		ref1.listOutput();
 		
-//		ref1.get		
-//		CalculatorServiceImpl ref2 = (CalculatorServiceImpl) factory.getBean("calculator48");
-		CalculatorServiceImpl ref2 = (CalculatorServiceImpl) factory.getBean("calculator46_48");
+		//ref1.get
+		//CalculatorServiceImpl ref2 =  (CalculatorServiceImpl)factory.getBean("calculator48");
+		CalculatorServiceImpl ref2 =  (CalculatorServiceImpl)factory.getBean("calculator46_48");
 		Properties properties = ref2.getProperties();
 //		String serverValue = properties.getProperty("server");
 //		System.out.println(serverValue);
 		
 		ref2.listOutput();
 		
-		//ref2.getProperties(); 값중에서 key를 모를때 사용하는 방법
-		Enumeration keys = properties.keys();
+		
+		///////  ref2.getProperties();  값중에서 key를 모를때 사용하는 방법
+		Enumeration  keys  =  properties.keys();
 		List<String> keyList = new ArrayList<String>();
 		
-		while (keys.hasMoreElements()) {
+		while( keys.hasMoreElements()  ) {
 			keyList.add((String)keys.nextElement());
+		}
+//		
+//		for(Object key : keys ) {//Can only iterate over an array or an instance of java.lang.Iterable
+//			System.out.println(key);
+//		}
+//		
+		
+		for(String key : keyList ) {
 			
+			System.out.println(key+":" + properties.getProperty(key));
 		}
 		
-		for (String key:keyList) {
-			
-			System.out.println(key+":"+properties.getProperty(key));
-		}
+		
+		
 	}
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

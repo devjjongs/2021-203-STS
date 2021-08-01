@@ -5,6 +5,9 @@ import x.y.service.GreetingService;
 public class GreetingServiceImpl implements GreetingService {
 	private String greeting;
 	private int loopCount;
+	public GreetingServiceImpl() {
+		// TODO Auto-generated constructor stub
+	}
 	public GreetingServiceImpl(String greeting, int loopCount) {
 		this.greeting = greeting;
 		this.loopCount = loopCount;

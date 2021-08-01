@@ -15,8 +15,10 @@ public class SpringAppP40 {
 		// TODO Auto-generated method stub
 		Resource resource = new ClassPathResource("applicationContext.xml");
 		BeanFactory factory = new XmlBeanFactory(resource);
-		Foo  bean =  (Foo)factory.getBean("fooP40");
+		x.y.p40.Foo bean =  (Foo)factory.getBean("fooP40");
 		
 		Foo fooBean = (Foo)factory.getBean("fooP41");
+		
 	}
+
 }
