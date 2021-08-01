@@ -18,36 +18,17 @@ public class SpringAppScopeTest {
 		Resource resource = new ClassPathResource("applicationContext.xml");
 		BeanFactory factory = new XmlBeanFactory(resource);
 
-		// bean scope singleton   ,   prototype  
-		//p36.Bar  p36.Baz~~~    이용 ==> 직접이용이 아니고 DI 
-		Bar beanRef = (Bar)factory.getBean("barScopeSingle");
+		// bean scope singleton , prototype
+		// p36.Bar p36.Baz~~~ 이용 ==> 직접이용이 아니고 DI
+		Bar beanRef = (Bar) factory.getBean("barScopeSingle");
 		System.out.println("///////////////////=======");
-		Bar beanRef2 = (Bar)factory.getBean("barScopeSingle");
+		Bar beanRef2 = (Bar) factory.getBean("barScopeSingle");
 		System.out.println("///////////////////");
-		
+
 		System.out.println("\\\\\\\\\\   ///////////////////\\\\\\\\");
-		Bar beanRef3 = (Bar)factory.getBean("barScopeProt");
+		Bar beanRef3 = (Bar) factory.getBean("barScopeProt");
 		System.out.println("///////////////////");
-		Bar beanRef4 = (Bar)factory.getBean("barScopeProt");
+		Bar beanRef4 = (Bar) factory.getBean("barScopeProt");
 		System.out.println("///////////////////");
 	}
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

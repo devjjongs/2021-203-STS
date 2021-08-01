@@ -24,32 +24,10 @@ public class SpringAppP60 {
 		BeanFactory factory = new XmlBeanFactory(resource);
 //		
 //		Bar beanRef = (Bar)factory.getBean("barScopeSingle");
-		
+
 		System.out.println("////");
-		
-		ApplicationContext factory2 =
-				new ClassPathXmlApplicationContext("applicationContext.xml");
+
+		ApplicationContext factory2 = new ClassPathXmlApplicationContext("applicationContext.xml");
 //		Bar beanRef2 = (Bar)factory2.getBean("barScopeSingle");
-		
 	}
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
