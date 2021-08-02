@@ -3130,3 +3130,288 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact junit:junit:j
 2021-08-02 14:18:10,178 [Worker-122: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2021-08-02 14:21:05,938 [Worker-138: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
 2021-08-02 14:21:05,940 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 14:21:05,942 [Worker-138: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 14:21:05,944 [Worker-138: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:43:09,358 [Worker-173: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:43:09,364 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:43:09,367 [Worker-173: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:43:09,369 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:44:58,122 [Worker-174: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:44:58,125 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:44:58,126 [Worker-174: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:44:58,126 [Worker-174: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:45:46,732 [Worker-171: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:45:46,733 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:45:46,734 [Worker-171: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:45:46,735 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:48:13,264 [Worker-172: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:48:13,267 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:48:13,268 [Worker-172: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:48:13,269 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:48:51,863 [Worker-175: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:48:51,865 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:48:51,867 [Worker-175: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:48:51,869 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:49:32,519 [Worker-173: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:49:32,521 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:49:32,522 [Worker-173: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:49:32,522 [Worker-173: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:50:02,379 [Worker-176: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:50:02,381 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:50:02,383 [Worker-176: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:50:02,383 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:51:11,236 [Worker-171: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:51:11,239 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:51:11,240 [Worker-171: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:51:11,242 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:52:21,549 [Worker-176: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:52:21,551 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:52:21,552 [Worker-176: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:52:21,554 [Worker-176: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:53:17,300 [Worker-171: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:53:17,302 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:53:17,304 [Worker-171: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:53:17,305 [Worker-171: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:53:34,313 [Worker-177: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:53:34,316 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:53:34,316 [Worker-177: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:53:34,317 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:53:57,921 [Worker-177: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:53:57,923 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:53:57,924 [Worker-177: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:53:57,926 [Worker-177: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:54:04,778 [Worker-175: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:54:04,780 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:54:04,781 [Worker-175: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:54:04,782 [Worker-175: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:54:23,088 [Worker-172: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:54:23,089 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:54:23,090 [Worker-172: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:54:23,091 [Worker-172: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:57:20,343 [Worker-178: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bit:spring:1.0.0-BUILD-SNAPSHOT @ C:\Users\whdtj\B.Study\2021-203-STS\DebugTest\pom.xml.
+2021-08-02 16:57:23,136 [Worker-178: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc8/21.1.0.0/ojdbc8-21.1.0.0.pom
+2021-08-02 16:57:23,465 [Worker-178: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc8/21.1.0.0/ojdbc8-21.1.0.0.pom
+2021-08-02 16:57:23,663 [Worker-178: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc8/21.1.0.0/ojdbc8-21.1.0.0.jar
+2021-08-02 16:57:25,232 [Worker-178: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc8/21.1.0.0/ojdbc8-21.1.0.0.jar
+2021-08-02 16:57:25,332 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:2.9: Plugin org.apache.maven.plugins:maven-eclipse-plugin:2.9 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-eclipse-plugin:jar:2.9
+2021-08-02 16:57:25,337 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:1.2.1: Plugin org.codehaus.mojo:exec-maven-plugin:1.2.1 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.codehaus.mojo:exec-maven-plugin:jar:1.2.1
+2021-08-02 16:57:25,340 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.5: Plugin org.apache.maven.plugins:maven-clean-plugin:2.5 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-clean-plugin:jar:2.5
+2021-08-02 16:57:25,342 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:2.9: Plugin org.apache.maven.plugins:maven-eclipse-plugin:2.9 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-eclipse-plugin:jar:2.9
+2021-08-02 16:57:25,344 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:1.2.1: Plugin org.codehaus.mojo:exec-maven-plugin:1.2.1 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.codehaus.mojo:exec-maven-plugin:jar:1.2.1
+2021-08-02 16:57:25,346 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.5: Plugin org.apache.maven.plugins:maven-clean-plugin:2.5 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-clean-plugin:jar:2.5
+2021-08-02 16:57:25,620 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:57:25,621 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:57:25,622 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:57:25,623 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:57:25,661 [Worker-178: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of DebugTest
+2021-08-02 16:57:25,662 [Worker-178: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for DebugTest
+2021-08-02 16:57:25,666 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:2.9 is missing, no dependency information available
+2021-08-02 16:57:25,668 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:2.9: Plugin org.apache.maven.plugins:maven-eclipse-plugin:2.9 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-eclipse-plugin:jar:2.9 has not been downloaded from it before.
+2021-08-02 16:57:25,670 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:1.2.1 is missing, no dependency information available
+2021-08-02 16:57:25,671 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:1.2.1: Plugin org.codehaus.mojo:exec-maven-plugin:1.2.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:exec-maven-plugin:jar:1.2.1 has not been downloaded from it before.
+2021-08-02 16:57:25,672 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2021-08-02 16:57:25,673 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.5: Plugin org.apache.maven.plugins:maven-clean-plugin:2.5 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-clean-plugin:jar:2.5 has not been downloaded from it before.
+2021-08-02 16:57:25,674 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:2.9 is missing, no dependency information available
+2021-08-02 16:57:25,675 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:2.9: Plugin org.apache.maven.plugins:maven-eclipse-plugin:2.9 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-eclipse-plugin:jar:2.9 has not been downloaded from it before.
+2021-08-02 16:57:25,677 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:1.2.1 is missing, no dependency information available
+2021-08-02 16:57:25,678 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:1.2.1: Plugin org.codehaus.mojo:exec-maven-plugin:1.2.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:exec-maven-plugin:jar:1.2.1 has not been downloaded from it before.
+2021-08-02 16:57:25,679 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2021-08-02 16:57:25,680 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.5: Plugin org.apache.maven.plugins:maven-clean-plugin:2.5 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-clean-plugin:jar:2.5 has not been downloaded from it before.
+2021-08-02 16:57:25,687 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:57:27,638 [Worker-175: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc8/21.1.0.0/ojdbc8-21.1.0.0-sources.jar
+2021-08-02 16:57:28,091 [Worker-175: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/database/jdbc/ojdbc8/21.1.0.0/ojdbc8-21.1.0.0-sources.jar
+2021-08-02 16:57:28,137 [Worker-181: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:57:28,141 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:57:28,251 [Worker-181: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:57:28,256 [Worker-181: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 16:57:28,447 [Worker-175: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.oracle.database.jdbc:ojdbc8:21.1.0.0
+2021-08-02 16:57:29,396 [Worker-180: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:57:29,399 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 16:57:29,405 [Worker-180: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 16:57:29,406 [Worker-180: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:04:10,030 [Worker-183: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:04:10,034 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:04:10,038 [Worker-183: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:04:10,039 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:04:19,422 [Worker-183: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:04:19,424 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:04:19,425 [Worker-183: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:04:19,426 [Worker-183: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:04:34,750 [Worker-184: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:04:34,753 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:04:34,754 [Worker-184: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:04:34,756 [Worker-184: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:05:23,659 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:05:23,661 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:05:23,662 [Worker-178: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:05:23,663 [Worker-178: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:09:32,928 [Worker-189: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:09:32,930 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:09:32,931 [Worker-189: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:09:32,931 [Worker-189: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:10:38,164 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:10:38,166 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:10:38,168 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:10:38,170 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:16:17,970 [Worker-192: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:16:17,973 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:16:17,975 [Worker-192: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:16:17,976 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:16:37,028 [Worker-194: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:16:37,031 [Worker-194: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:16:37,031 [Worker-194: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:16:37,032 [Worker-194: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:16:54,246 [Worker-193: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:16:54,248 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:16:54,248 [Worker-193: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:16:54,250 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:17:47,132 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:17:47,133 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:17:47,134 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:17:47,135 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:20:59,389 [Worker-192: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:20:59,391 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:20:59,392 [Worker-192: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:20:59,392 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:21:52,673 [Worker-192: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:21:52,675 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:21:52,676 [Worker-192: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:21:52,677 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:22:21,883 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:22:21,885 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:22:21,886 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:22:21,887 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:23:16,873 [Worker-196: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:23:16,875 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:23:16,876 [Worker-196: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:23:16,877 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:23:26,321 [Worker-193: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:23:26,322 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:23:26,323 [Worker-193: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:23:26,324 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:23:52,275 [Worker-196: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:23:52,276 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:23:52,278 [Worker-196: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:23:52,279 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:25:28,645 [Worker-199: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:25:28,647 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:25:28,648 [Worker-199: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:25:28,649 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:26:40,066 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:26:40,067 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:26:40,068 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:26:40,069 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:26:51,896 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:26:51,897 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:26:51,898 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:26:51,899 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:28:04,701 [Worker-201: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:28:04,703 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:28:04,705 [Worker-201: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:28:04,707 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:29:10,813 [Worker-193: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:29:10,814 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:29:10,816 [Worker-193: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:29:10,817 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:30:32,544 [Worker-199: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:30:32,547 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:30:32,548 [Worker-199: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:30:32,550 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:31:03,418 [Worker-199: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:31:03,419 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:31:03,420 [Worker-199: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:31:03,421 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:31:21,678 [Worker-196: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:31:21,679 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:31:21,680 [Worker-196: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:31:21,681 [Worker-196: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:31:32,565 [Worker-199: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:31:32,566 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:31:32,568 [Worker-199: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:31:32,569 [Worker-199: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:33:28,324 [Worker-201: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:33:28,325 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:33:28,326 [Worker-201: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:33:28,327 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:33:29,664 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:33:29,666 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:33:29,668 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:33:29,669 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:34:59,913 [Worker-193: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:34:59,914 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:34:59,915 [Worker-193: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:34:59,917 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:35:14,666 [Worker-192: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:35:14,667 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:35:14,668 [Worker-192: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:35:14,669 [Worker-192: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:36:15,627 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:36:15,630 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:36:15,633 [Worker-195: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:36:15,634 [Worker-195: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:36:23,630 [Worker-198: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:36:23,630 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:36:23,631 [Worker-198: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:36:23,633 [Worker-198: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:37:43,189 [Worker-201: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:37:43,190 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:37:43,192 [Worker-201: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:37:43,193 [Worker-201: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:37:54,654 [Worker-193: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:37:54,655 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:37:54,656 [Worker-193: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:37:54,657 [Worker-193: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:40:16,706 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:40:16,708 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:40:16,708 [Worker-200: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:40:16,708 [Worker-200: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:46:08,009 [Worker-208: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:46:08,012 [Worker-208: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:46:08,014 [Worker-208: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:46:08,015 [Worker-208: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:46:17,652 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:46:17,654 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:46:17,656 [Worker-191: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:46:17,657 [Worker-191: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:46:23,639 [Worker-207: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:46:23,642 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:46:23,644 [Worker-207: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:46:23,645 [Worker-207: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:50:44,322 [Worker-208: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:50:44,322 [Worker-208: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:50:44,324 [Worker-208: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:50:44,325 [Worker-208: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:50:45,717 [Worker-214: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.bit:spring:1.0.0-BUILD-SNAPSHOT @ C:\Users\whdtj\B.Study\2021-203-STS\DebugTest\pom.xml.
+2021-08-02 17:50:45,825 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:2.9: Plugin org.apache.maven.plugins:maven-eclipse-plugin:2.9 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-eclipse-plugin:jar:2.9
+2021-08-02 17:50:45,828 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:1.2.1: Plugin org.codehaus.mojo:exec-maven-plugin:1.2.1 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.codehaus.mojo:exec-maven-plugin:jar:1.2.1
+2021-08-02 17:50:45,831 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.5: Plugin org.apache.maven.plugins:maven-clean-plugin:2.5 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-clean-plugin:jar:2.5
+2021-08-02 17:50:45,834 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:2.9: Plugin org.apache.maven.plugins:maven-eclipse-plugin:2.9 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-eclipse-plugin:jar:2.9
+2021-08-02 17:50:45,836 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:1.2.1: Plugin org.codehaus.mojo:exec-maven-plugin:1.2.1 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.codehaus.mojo:exec-maven-plugin:jar:1.2.1
+2021-08-02 17:50:45,839 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.5: Plugin org.apache.maven.plugins:maven-clean-plugin:2.5 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-clean-plugin:jar:2.5
+2021-08-02 17:50:46,045 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:50:46,047 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:50:46,048 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:50:46,049 [Worker-214: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:50:46,049 [Worker-214: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of DebugTest
+2021-08-02 17:50:46,050 [Worker-214: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for DebugTest
+2021-08-02 17:50:46,053 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:2.9 is missing, no dependency information available
+2021-08-02 17:50:46,055 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:2.9: Plugin org.apache.maven.plugins:maven-eclipse-plugin:2.9 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-eclipse-plugin:jar:2.9 has not been downloaded from it before.
+2021-08-02 17:50:46,056 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:1.2.1 is missing, no dependency information available
+2021-08-02 17:50:46,058 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:1.2.1: Plugin org.codehaus.mojo:exec-maven-plugin:1.2.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:exec-maven-plugin:jar:1.2.1 has not been downloaded from it before.
+2021-08-02 17:50:46,058 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2021-08-02 17:50:46,059 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.5: Plugin org.apache.maven.plugins:maven-clean-plugin:2.5 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-clean-plugin:jar:2.5 has not been downloaded from it before.
+2021-08-02 17:50:46,061 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-eclipse-plugin:jar:2.9 is missing, no dependency information available
+2021-08-02 17:50:46,062 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-eclipse-plugin:2.9: Plugin org.apache.maven.plugins:maven-eclipse-plugin:2.9 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-eclipse-plugin:jar:2.9 has not been downloaded from it before.
+2021-08-02 17:50:46,063 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.codehaus.mojo:exec-maven-plugin:jar:1.2.1 is missing, no dependency information available
+2021-08-02 17:50:46,064 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.codehaus.mojo:exec-maven-plugin:1.2.1: Plugin org.codehaus.mojo:exec-maven-plugin:1.2.1 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.codehaus.mojo:exec-maven-plugin:jar:1.2.1 has not been downloaded from it before.
+2021-08-02 17:50:46,065 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.5 is missing, no dependency information available
+2021-08-02 17:50:46,066 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.5: Plugin org.apache.maven.plugins:maven-clean-plugin:2.5 or one of its dependencies could not be resolved: Cannot access central (https://repo.maven.apache.org/maven2) in offline mode and the artifact org.apache.maven.plugins:maven-clean-plugin:jar:2.5 has not been downloaded from it before.
+2021-08-02 17:50:46,082 [Worker-214: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:50:59,089 [Worker-216: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:50:59,091 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:50:59,092 [Worker-216: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:50:59,093 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-02 17:51:00,136 [Worker-216: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:51:00,138 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-08-02 17:51:00,139 [Worker-216: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-08-02 17:51:00,140 [Worker-216: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
