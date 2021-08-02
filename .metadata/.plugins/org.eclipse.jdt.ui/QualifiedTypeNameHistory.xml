@@ -2,16 +2,10 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="com.sun.swing.internal.plaf.metal.resources.metal"/>
 <fullyQualifiedTypeName name="javax.annotation.Resource"/>
-<fullyQualifiedTypeName name="org.springframework.core.io.Resource"/>
-<fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
-<fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
 <fullyQualifiedTypeName name="x.y.service.HelloBean"/>
 <fullyQualifiedTypeName name="x.y.p36.Bar"/>
 <fullyQualifiedTypeName name="x.y.p36.Baz"/>
-<fullyQualifiedTypeName name="x.y.impl.GreetingServiceImpl"/>
 <fullyQualifiedTypeName name="sample.ConstructorTest"/>
-<fullyQualifiedTypeName name="x.y.service.GreetingService"/>
 <fullyQualifiedTypeName name="x.y.p40.Bar"/>
 <fullyQualifiedTypeName name="x.y.p36.Foo"/>
 <fullyQualifiedTypeName name="x.y.p40.Foo"/>
@@ -38,4 +32,15 @@
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
 <fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="x.y.service.OutputService"/>
+<fullyQualifiedTypeName name="x.y.impl.OutputServiceImplConsole"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="org.springframework.core.io.Resource"/>
+<fullyQualifiedTypeName name="org.springframework.core.io.ClassPathResource"/>
+<fullyQualifiedTypeName name="org.apache.naming.factory.BeanFactory"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.BeanFactory"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.xml.XmlBeanFactory"/>
+<fullyQualifiedTypeName name="x.y.service.GreetingService"/>
+<fullyQualifiedTypeName name="x.y.impl.GreetingServiceImpl"/>
+<fullyQualifiedTypeName name="x.y.impl.GreetingServiceImpl2"/>
 </qualifiedTypeNameHistroy>
