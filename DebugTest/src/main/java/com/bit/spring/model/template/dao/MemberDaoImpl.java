@@ -8,25 +8,18 @@ import org.springframework.jdbc.core.support.JdbcDaoSupport;
 import com.bit.spring.model.template.vo.Member;
 
 // p133
-public class MemberDaoImpl  extends JdbcDaoSupport implements MemberDao {
-	
+public class MemberDaoImpl extends JdbcDaoSupport implements MemberDao {
+
 	@Override
 	public List<Member> memberList() {
 		// TODO Auto-generated method stub
-		String sql ="select userId ,userPw , email, age, userName  from  member  ";
-		MemberRowMapper rowMapper  = new MemberRowMapper();
+		String sql = "select userId ,userPw , email, age, userName  from  member  ";
+		MemberRowMapper rowMapper = new MemberRowMapper();
 		List<Member> memberList = getJdbcTemplate().query(sql, rowMapper);
-		
-		
+
 		return memberList;
 	}
-
+	// logincheck
+	// member insert
+	// delete
 }
-
-
-
-
-
-
-
-

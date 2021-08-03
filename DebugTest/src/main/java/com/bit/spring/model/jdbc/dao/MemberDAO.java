@@ -24,21 +24,21 @@ public class MemberDAO     {
 	
 //  oracle db connection
 //  stream 부여받는다
-	public void  connection() {
-		
+	public void connection() {
+
 		try {
-			
+
 			Class.forName("oracle.jdbc.driver.OracleDriver");
-			
-			String url="jdbc:oracle:thin:@localhost:1521:xe";
+
+			String url = "jdbc:oracle:thin:@localhost:1521:xe";
 			String user = "scott";
 			String password = "tiger";
 			connection = DriverManager.getConnection(url, user, password);
 			System.out.println("connection ok");
-		}catch (ClassNotFoundException e) {
+		} catch (ClassNotFoundException e) {
 			e.printStackTrace();
 		} catch (SQLException e) {
-			
+
 			e.printStackTrace();
 		}
 	}
