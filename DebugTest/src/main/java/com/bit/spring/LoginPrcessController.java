@@ -7,13 +7,16 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import com.bit.spring.dao.MemberDAO;
-import com.bit.spring.vo.Member;
+import com.bit.spring.model.jdbc.dao.MemberDAO;
+import com.bit.spring.model.jdbc.vo.Member;
 
 @Controller
 public class LoginPrcessController {
 	
 	private static final Logger logger = LoggerFactory.getLogger(LoginPrcessController.class);
+	
+	MemberDAO dao = new MemberDAO();
+//	dao.connection();
 	
 	
 	@RequestMapping("loginForm")
@@ -38,4 +41,25 @@ public class LoginPrcessController {
 			return "home";//home.jsp call
 		}
 	}
+	@RequestMapping("memberListJdbc")
+	public String memberListJdbc(Model model) {
+		model.addAttribute("msg","memberListJdbc" );
+		
+		dao.memberList();
+		
+		return "memberList";
+	}
+	
+	@RequestMapping("memberListTemplate")
+	public String memberListTemplate(Model model) {
+		model.addAttribute("msg","memberListTemplate" );
+		return "memberList";
+	}
+	
+	
+	
 }
+
+
+
+

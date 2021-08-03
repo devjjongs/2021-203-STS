@@ -1,0 +1,14 @@
+package 정리
+	dao
+	vo
+	
+	model
+		jdbc
+			dao
+			vo >> 옮겨놀것
+		template
+			dao
+			vo(dto)
+		orm
+			dao .mapper
+			vo

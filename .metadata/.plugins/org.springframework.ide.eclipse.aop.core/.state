@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
-<aop-project name="HelloSpring"/>
-<aop-project name="HelloSpring_my"/>
+<aop-project name="DebugTest"/>
 </aop-reference-model>

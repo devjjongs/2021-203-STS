@@ -16,6 +16,8 @@
 		<item key="pageIndex" value="2"/>
 	</section>
 	<section name="completion_proposal_size">
+		<item key="size.x" value="621"/>
+		<item key="size.y" value="356"/>
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
@@ -31,7 +33,7 @@
 	</section>
 	<section name="DialogBounds_SuperInterfaceSelectionDialog">
 		<item key="DIALOG_X_ORIGIN" value="142"/>
-		<item key="DIALOG_Y_ORIGIN" value="-97"/>
+		<item key="DIALOG_Y_ORIGIN" value="-95"/>
 		<item key="DIALOG_WIDTH" value="373"/>
 		<item key="DIALOG_HEIGHT" value="549"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|5|0|맑은 고딕"/>
