@@ -20,7 +20,7 @@ public class MemberDAO {
 //  oracle db connection
 //  stream 부여받는다
 	public void connection() {
-
+		
 		try {
 
 			Class.forName("oracle.jdbc.driver.OracleDriver");

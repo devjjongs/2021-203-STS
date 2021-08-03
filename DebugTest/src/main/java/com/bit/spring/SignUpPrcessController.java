@@ -19,17 +19,19 @@ public class SignUpPrcessController {
 		return "signupForm";
 	}
 	
-	@RequestMapping(method = RequestMethod.GET)
-	public String signUp(String userId, String userPw, String userName, String email, Integer age, Model model) {
-		
-		MemberDAO dao = new MemberDAO();
-		dao.connection();
-		
-		Member member = dao.signUp(userId, userPw, userName, email, age);
-		if(member.getUserId()==null) {
-			
-		}else {
-			return "home";
-		}
-	}
+//	@RequestMapping(method = RequestMethod.GET)
+//	public String signUp(String userId, String userPw, String userName, String email, Integer age, Model model) {
+//		
+//		MemberDAO dao = new MemberDAO();
+//		dao.connection();
+//		
+//		Member member = dao.signUp(userId, userPw, userName, email, age);
+//		if(member.getUserId()==null) {
+//			
+//		}else {
+//			return "home";
+//		}
+//	}
+	
 }
+
