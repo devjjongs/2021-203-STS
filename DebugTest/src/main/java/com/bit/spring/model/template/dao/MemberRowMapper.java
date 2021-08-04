@@ -15,11 +15,10 @@ public class MemberRowMapper implements RowMapper<Member> {
 		Member member = new Member();
 		member.setUserId(resultSet.getString(1));
 		member.setUserPw(resultSet.getString(2));
+		member.setUserName(resultSet.getString(4));
 		member.setEmail(resultSet.getString("email"));
 		member.setAge(resultSet.getInt("age"));
-		member.setUserName(resultSet.getString(5));
 
 		return member;
 	}
-
 }

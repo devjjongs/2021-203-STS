@@ -6,4 +6,7 @@ import com.bit.spring.model.template.vo.Member;
 
 public interface MemberDao {
 	List<Member> memberList();
+	Member loginCheck();
+	Member memberInsert();
+	Member delete();
 }

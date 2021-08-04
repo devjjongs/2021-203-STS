@@ -1,5 +1,10 @@
-package com.bit.spring.model.jdbc.vo;
-
+package com.bit.spring.model.orm.vo;
+/**
+ * 
+ * p266의 Emp, Dept class와 비슷한 역할을 하는 class
+ * @author JJong
+ *
+ */
 public class Member {
 	private String userId;
 	private String userPw;
