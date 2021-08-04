@@ -1,4 +1,4 @@
 #Tomcat publish data
-#Wed Aug 04 14:59:04 KST 2021
+#Wed Aug 04 18:31:24 KST 2021
 org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\whdtj\\.m2\\repository\\org\\springframework\\spring-web\\3.2.14.RELEASE\\spring-web-3.2.14.RELEASE.jar=C\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\DebugTest\\WEB-INF\\lib\\spring-web-3.2.14.RELEASE.jar
 org.eclipse.jst.jee.server\:DebugTest=C\:\\sts-bundle\\pivotal-tc-server\\instances\\base-instance\\wtpwebapps\\DebugTest

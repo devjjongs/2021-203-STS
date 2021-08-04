@@ -20,8 +20,8 @@ public interface MemberDaoMyBatis {
 	List<Member> getAllMember(); // 회원조회 메소드
 
 	Member getMember(@Param("userId") String userId, @Param("userPw") String userPw); // 로그인 체크 메소드
-	// 회원가입 메소드
-	// 회원탈퇴 메소드
-	// 정보수정 메소드
-	// 이름검색 메소드
+	Member signupMember(@Param("userId")String userId, @Param("userPw")String userPw, @Param("userName")String userName, @Param("email")String email, @Param("age")Integer age);// 회원가입 메소드
+	Member deleteMember(String userId, String userPw);// 회원탈퇴 메소드
+	Member updataMember();// 정보수정 메소드
+	Member searchName();// 이름검색 메소드
 }
