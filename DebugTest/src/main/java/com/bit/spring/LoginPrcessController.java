@@ -89,7 +89,7 @@ public class LoginPrcessController {
 	public String memberListJdbc(Model model) {
 		model.addAttribute("msg", "memberListJdbc");
 		model.addAttribute("memberList", dao.memberList());// key="memberList", value=List<Member>
-		return "memberList";// memberList.jsp
+		return "memberList";// memberList.jspf
 	}
 
 	@RequestMapping("memberListTemplate")
