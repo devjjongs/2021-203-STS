@@ -12,13 +12,14 @@ public class MemberRowMapper implements RowMapper<Member> {
 	@Override
 	public Member mapRow(ResultSet resultSet, int rowNum) throws SQLException {
 		// TODO Auto-generated method stub
-		Member member = new Member();
+		Member  member = new Member();
 		member.setUserId(resultSet.getString(1));
 		member.setUserPw(resultSet.getString(2));
-		member.setUserName(resultSet.getString(4));
-		member.setEmail(resultSet.getString("email"));
-		member.setAge(resultSet.getInt("age"));
+		member.setEmail(  resultSet.getString("email") );
+		member.setAge( resultSet.getInt("age") );
+		member.setUserName(resultSet.getString(5));
 
 		return member;
 	}
+
 }

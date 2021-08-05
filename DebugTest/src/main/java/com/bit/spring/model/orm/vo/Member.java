@@ -1,8 +1,7 @@
 package com.bit.spring.model.orm.vo;
 /**
- * 
- * p266의 Emp, Dept class와 비슷한 역할을 하는 class
- * @author JJong
+ * p262의 Emp, Dept class와 비슷한 클래스
+ * @author bitcamp
  *
  */
 public class Member {
@@ -11,11 +10,12 @@ public class Member {
 	private String userName;
 	private String email;
 	private int age;
-
+	
 	public Member() {
 		// TODO Auto-generated constructor stub
+		
 	}
-
+	
 	public Member(String userId, String userPw, String userName, String email, int age) {
 		super();
 		this.userId = userId;
@@ -28,31 +28,29 @@ public class Member {
 	public String getUserId() {
 		return userId;
 	}
-
 	public void setUserId(String userId) {
 		this.userId = userId;
 	}
-
 	public String getUserPw() {
 		return userPw;
 	}
-
 	public void setUserPw(String userPw) {
 		this.userPw = userPw;
 	}
-
 	public String getUserName() {
 		return userName;
 	}
-
 	public void setUserName(String userName) {
 		this.userName = userName;
 	}
-
+	/**
+	 *  Property [email] not readable on type [com.bit.spring.model.template.vo.Member]
+	 *  발생한 이유는 getEmail()이 없어서
+	 * @return
+	 */
 	public String getEmail() {
 		return email;
 	}
-
 	public void setEmail(String email) {
 		this.email = email;
 	}
@@ -61,14 +59,14 @@ public class Member {
 		return age;
 	}
 
+	
 	public void setAge(int age) {
 		this.age = age;
 	}
-
 	@Override
 	public String toString() {
 		return "Member [userId=" + userId + ", userPw=" + userPw + ", userName=" + userName + ", email=" + email
 				+ ", age=" + age + "]";
 	}
-
+	
 }

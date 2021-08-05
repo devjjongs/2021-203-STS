@@ -1,9 +1,8 @@
 INDEX VERSION 1.4+C:\Users\whdtj\B.Study\2021-203-STS\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-489035301.index
-3034411150.index
-1846187689.index
-1065320786.index
-3034411150.index
-3073261869.index
 1472379566.index
+489035301.index
+3073261869.index
 2853444249.index
+3034411150.index
+1065320786.index
+1846187689.index
