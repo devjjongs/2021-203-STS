@@ -2,27 +2,22 @@
 <!DOCTYPE mapper
   PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
   "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<!-- com.bit.spring.model.orm.dao.MemberDaoMyBatis 의 implements 로 구현부를 가지고 
-	있다 . -->
-<mapper namespace="com.bit.spring.model.orm.dao.MemberDaoMyBatis">
-	<select id="getAllMember" resultType="Member">
-		select userId ,userPw , email, age, userName from member
-	</select>
-	<!-- <select id="getMember" resultType="com.bit.spring.model.orm.vo.Member"> 
-		select email, age, userName from member where userId =#{userId} and userPw 
-		= #{userPw} </select> -->
-	<select id="getMember"
-		resultType="com.bit.spring.model.orm.vo.Member">
-		select * from member where userId =#{userId} and userPw = #{userPw}
-	</select>
-
-	<insert id="memberInsert" parameterType="Member">
-		INSERT INTO "SPRING"."MEMBER" VALUES (#{userId}, #{userPw}, #{userName},
-		#{email}, #{age})
-	</insert>
-
-	// Mapper XML
-	<isnert id="paramMapInsert" parameterType="hashmap">
-		insert into "scott"."MEMBER" values (#{userId}, #{userPw}, #{userName}, #{email},#{age})
-	</isnert>
-</mapper>
+  <!-- com.bit.spring.model.orm.dao.MemberDaoMyBatis 의 implements 로 구현부를 가지고 있다 .  -->
+  <mapper namespace="com.bit.spring.model.orm.dao.MemberDaoMyBatis">
+  	<select id="getAllMember"  resultType="Member">
+  		select userId ,userPw , email, age, userName  from  member
+  	</select>
+  	<!-- <select id="getMember" resultType="com.bit.spring.model.orm.vo.Member">
+  		select email, age, userName  from  member  where  userId =#{userId} and userPw = #{userPw} 
+  	</select> -->
+  	<select id="getMember" resultType="com.bit.spring.model.orm.vo.Member">
+  		select *  from  member  where  userId =#{userId} and userPw = #{userPw} 
+  	</select>
+  	
+  	<insert id="memberInsert" parameterType="Member" >
+    	INSERT INTO "SPRING"."MEMBER"  VALUES (#{userId}, #{userPw},  #{userName}, #{email},  #{age})
+  	</insert>
+  	<insert id="paramMapInsert" parameterType="hashmap" >
+    	INSERT INTO "SPRING"."MEMBER"  VALUES (#{userId}, #{userPw},  #{userName}, #{email},  #{age})
+  	</insert>
+  </mapper>
