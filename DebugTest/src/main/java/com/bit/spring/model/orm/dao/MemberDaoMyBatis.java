@@ -30,4 +30,6 @@ public interface MemberDaoMyBatis {
 	
 	// 회원 정보 insert 메소드 
 	void memberInsert(Member member );
+	
+	void paramMap
 }

@@ -54,7 +54,7 @@
 				contentType :   "application/x-www-form-urlencoded; charset=UTF-8",
 				success : function( retVal ) {
 					/* if(retVal.code == "OK") { */
-                        alert(retVal.message);
+                        alert(retVal.message + " : " + );
                         location.href = retVal.nextpage;  
                     /* } else {
                         alert(retVal.message);
