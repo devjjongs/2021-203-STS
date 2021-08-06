@@ -1,5 +1,9 @@
 package com.bit.spring;
 
+import java.util.HashMap;
+import java.util.Map;
+
+import org.apache.ibatis.binding.MapperMethod.ParamMap;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -7,6 +11,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -130,16 +135,26 @@ public class LoginPrcessController {
 
 	/**
 	 * loginForm.jsp에서 Member 자료를 입력받아서 orm.dao.MemberDao~~.memberInsert() 결과에 따라서
-	 * home.jsp , 입력 controller의 메소드 호출
+	 * home.jsp , 입력 controller의 메소드 호출하는 부분을 직접하지 않고
+	 * 비동기적으로 처리하겠다
 	 */
 	@RequestMapping(value = "memberInsert", method = RequestMethod.POST)
-	public String memberInsert(com.bit.spring.model.orm.vo.Member member, Model model) {
-		logger.info(member.toString());
+	public Object memberInsert(@ModelAttribute com.bit.spring.model.orm.vo.Member member, Model model) {
+		logger.info(ParamMap.get("userId").toString());
+		//return value
+		Map<String, Object> retVal = new HashMap<String, Object>();
+		
 		if (member != null && member.getUserId().length() >= 5) {
 			memberDaoMyBatis.memberInsert(member);
-			model.addAttribute("member", member);
-			return "home";
+//			model.addAttribute("member", member);
+			retVal.put("code", "OK");
+			retVal.put("message", "회원가입 완료");
+			retVal.put("nextPage", "memberLisetOrm");
+		}else {
+			retVal.put("code", "FAIL");
+			retVal.put("message", "ID 입력이 적당하지 않음");			
+			retVal.put("nextPage", "loginForm");			
 		}
-		return "redirect:/loginForm";
-	}
+		return "retVal";
+	}	
 }
