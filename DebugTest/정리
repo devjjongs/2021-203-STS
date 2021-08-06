@@ -1,35 +1,57 @@
 JDBC
-	value = "oracle.jdbc.driver.OracleDriver"를 사용하기 위해서
-		<dependency>
-			<groupId>com.oracle.database.jdbc</groupId>
-			<artifactId>ojdbc8</artifactId>
-			<version>21.1.0.0</version>
-		</dependency> 또는
-ojdbc8.jar 파일은 다운 받아서 buildpath
+  value="oracle.jdbc.driver.OracleDriver"을 사용하기 위해서
+  	<dependency>
+		<groupId>com.oracle.database.jdbc</groupId>
+		<artifactId>ojdbc8</artifactId>
+		<version>21.1.0.0</version>
+	</dependency> 또는
+ojdbc8.jar를 다운받아서 buildpath
 
-	JAVA-JDBC
-		ConnectionPooling
-		SQLException, try { } catch ( ) { }
-		
-	Spring-JDBC
-		Tempalte 클래스와 DaoSupport 클래스
-		dbcp : commons-dbcp2
-			dependency or buildpath
-		"org.springframework.jdbc.~~" : spring-jdbc
-			dependency or buildpath
-			
-////////////////////////////
-
-어떤걸?
-	요구사항분석
-	제안요청서 : 제안서
-	스토리보드 : WBS, 간트차트(개발 일정, 자원), UI 스토리 보드, 요소 배치
-	제안서 : 화면구성 포함(에시)
-	
- 어떻게?
- 	언어선정
- 		IDE, framework 결정
- 		prototype test(보고서 작성)
- 	
-	구조 생성 - package, 폴더
-		필요 lib 구축
+  JAVA-JDBC
+  	ConnectionPooling 
+  	SQLException , try{}catch(){}
+  Spring-JDBC
+  	Template 클래스와 DaoSupport 클래스
+  	dbcp : commons-dbcp2
+  	   dependency  or  buildpath
+  	"org.springframework.jdbc.~~"  : spring-jdbc
+  		dependency  or  buildpath
+  		
+  		
+ /////////
+ 어떤?
+    요구사항분석
+    제안요청서   ==> 제안서 
+      스토리보드 ==>WBS , 간트차트(개발 일정,자원) , UI스토리보드 , 배치
+      제안서 화면구성 포함(예시)
+ 무엇으로 만들것인가?
+   언어선정
+   IDE , framework
+   test 
+   
+   구조 - package  , 폴더 
+   필요한 lib 구축
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

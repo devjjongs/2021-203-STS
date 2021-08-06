@@ -1,0 +1,62 @@
+package 정리
+   dao
+   vo 
+  
+  model
+    jdbc
+       dao
+       vo  옮겨놓을것임
+    template
+       dao
+       vo (dto)
+    orm
+       dao  , mapper
+       vo
+              
+/////////////////////
+
+               사용자목록
+인덱스 번호    아이디     이름   나이   이메일 
+
+
+
+
+////////////////////////
+
+
+https://huskdoll.tistory.com/792   비동기   예를 응용을 좀해보자
+
+	Member 객체 전달   call <br>
+	<form action="memberInsert" method="post"> 
+
+   ===>   비동기로 처리하는 것을 해보자
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
