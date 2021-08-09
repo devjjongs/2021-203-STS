@@ -165,7 +165,7 @@ public class LoginPrcessController {
 		Map<String, Object> retVal = new HashMap<String, Object>();
 		
 		if(paramMap.get("userId").toString().length()>=5) {
-			memberDaoMyBatis.paramMapInsert(paramMap);
+			//memberDaoMyBatis.memberInsert(member);
 			//model.addAttribute("member", member);
 			retVal.put("code", "OK");
 			retVal.put("message", "회원가입 완료");

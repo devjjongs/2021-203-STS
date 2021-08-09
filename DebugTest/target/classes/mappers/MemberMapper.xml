@@ -17,7 +17,4 @@
   	<insert id="memberInsert" parameterType="Member" >
     	INSERT INTO "SPRING"."MEMBER"  VALUES (#{userId}, #{userPw},  #{userName}, #{email},  #{age})
   	</insert>
-  	<insert id="paramMapInsert" parameterType="hashmap" >
-    	INSERT INTO "SPRING"."MEMBER"  VALUES (#{userId}, #{userPw},  #{userName}, #{email},  #{age})
-  	</insert>
   </mapper>
