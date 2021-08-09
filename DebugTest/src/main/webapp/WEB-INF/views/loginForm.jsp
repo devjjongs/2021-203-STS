@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"	pageEncoding="UTF-8"%>
 
 <%@ taglib prefix="c"  uri="http://java.sun.com/jsp/jstl/core"%>	
-	
+
 	
 <!DOCTYPE html>
 <html>
@@ -15,6 +15,16 @@
 		  $("button").click(function(){
 		    $("p").hide();
 		  });
+		  
+		  $("#reset").click(function(){
+			$("#userId5").val("");
+			$("#userPw5").val("");
+			$("#userName5").val("");
+			$("#email5").val("");
+			$("#age5").val("");
+		  });
+			  
+		  
 		  
 		  $("#save").click(function() {
 			/* console.log("dfdfd");
@@ -54,14 +64,14 @@
 				contentType :   "application/x-www-form-urlencoded; charset=UTF-8",
 				success : function( retVal ) {
 					/* if(retVal.code == "OK") { */
-                        alert(retVal.message);
-                        location.href = retVal.nextpage;  
+                        alert(retVal.message+":"+retVal.nextPage);
+                        location.href = retVal.nextPage;  
                     /* } else {
                         alert(retVal.message);
                     } */
 				},
-				error       :   function(request, status, error){
-                     console.log("AJAX_ERROR"+" : "+error);
+				error       :   function(e){
+                     console.log("AJAX_ERROR"+" : "+e);
                  }
 			 });
 			 
@@ -69,8 +79,7 @@
 		  });
 		  
 		  
-		  
-		  
+		 
 		  
 		});
 	</script>
@@ -122,16 +131,19 @@
 	</form>
 	
 	비동기적으로	Member 객체 전달   call <br>
-	<form action="memberInsertAjax" method="post">
-		<label for="userId5">userId5:</label><input type="text" id="userId5"	name="userId"><br> 
-		<label for="userPw5">userPw5:</label><input type="password" id="userPw5" name="userPw"><br> 
-		<label for="userName5">userName5:</label><input type="text" id="userName5" name="userName"><br>
-		<label for="email5">email5:</label><input type="email" id="email5" name="email"><br>
-		<label for="age5">age5:</label><input type="number" min="10" max="200" id="age5" name="age" ><br>
-		<input type="button"  id="save" value="저장"><input type="reset">
-	</form>
-	
-	
+	<div>
+	<!-- <form action="memberInsertAjax" method="post"> -->
+		<label for="userId5">userId5:</label><input type="text" id="userId5"	><br> 
+		<label for="userPw5">userPw5:</label><input type="password" id="userPw5"  ><br> 
+		<label for="userName5">userName5:</label><input type="text" id="userName5"  ><br>
+		<label for="email5">email5:</label><input type="email" id="email5"  ><br>
+		<label for="age5">age5:</label><input type="number" min="10" max="200" id="age5"  ><br>
+		<input type="button"  id="save" value="저장"><input type="button" id="reset"  value="초기화">
+	<!-- </form> -->
+	</div>
+	<pre>
+	/////////////////////////////////
+	</pre>	
 	
 </body>
 </html>

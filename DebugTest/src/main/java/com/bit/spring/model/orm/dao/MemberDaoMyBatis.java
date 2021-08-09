@@ -1,6 +1,7 @@
 package com.bit.spring.model.orm.dao;
 
 import java.util.List;
+import java.util.Map;
 
 import org.apache.ibatis.annotations.Param;
 import org.apache.ibatis.annotations.Select;
@@ -30,4 +31,12 @@ public interface MemberDaoMyBatis {
 	
 	// 회원 정보 insert 메소드 
 	void memberInsert(Member member );
+	void paramMapInsert(Map<String, Object> paramMap);
 }
+
+
+
+
+
+
+
